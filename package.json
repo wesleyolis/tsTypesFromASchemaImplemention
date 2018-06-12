@@ -1,0 +1,16 @@
+{
+  "name": "schema-validation",
+  "version": "0.1.0",
+  "description": "Attempt to develop schema validation that implicity provides typescript types from the same definitinos, without using any external lanaguage generators or preprocessors",
+  "main": "index.js",
+  "dependencies": {
+    "joi": "^13.4.0",
+    "typelevel-ts": "^0.2.4",
+    "typescript": "^2.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Wesley Oliver <wesley.olis@gmail.com>"
+}

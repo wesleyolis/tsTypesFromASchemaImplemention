@@ -1,0 +1,22 @@
+{
+	"compileOnSave": true,
+	"compilerOptions": {
+		"target": "es2015",
+		"module": "commonjs",
+		"allowJs": false,
+		"declaration": true,
+		"outDir": "lib", 
+		"rootDir": "src", 
+		"noEmitOnError": true,
+		"strict": true, 
+		"noImplicitAny": true, 
+		"strictNullChecks": true, 
+		"noImplicitThis": true,
+		"alwaysStrict": true, 
+		"inlineSourceMap": true,
+		"preserveSymlinks": true
+	},
+	"include": [
+		"src/**/*"
+	]
+}
